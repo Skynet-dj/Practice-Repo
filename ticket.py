@@ -1,4 +1,4 @@
-#This program find lottery winners
+#This program finds lottery winners
 
 import random
 import time
